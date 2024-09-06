@@ -21,7 +21,7 @@ const app = express()
 // to make input as json
 app.use(express.json())
 app.use(cookieParser())
-app.use(cors({ origin: "http://localhost:5173",methods: ['GET', 'POST'], credentials:true })) 
+app.use(cors({ origin: "https://subhamnotesfrontend-417t.onrender.com",methods: ['GET', 'POST'], credentials:true })) 
 // app.use(cors({ origin:"*"}))
 const port=process.env.PORT || 4000;
 app.listen(3000, () => {
