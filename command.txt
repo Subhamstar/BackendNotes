@@ -1,0 +1,18 @@
+/
+tailwind css code 
+npm i react-router-dom axios react-toastify
+npm i react icons
+npm i react modal
+
+//addeditnotes edit
+
+// backend
+npm i cors dotenv express jsonwebtoken mongoose nodemon
+npm i bcryptjs
+npm i cookie-parser
+
+
+//frontend
+npm i axios
+npm i @reduxjs/toolkit
+npm i redux-persist
